@@ -1,4 +1,4 @@
-
+![logo](https://github.com/Rimsha8954/Rimsha8954/blob/main/Banner.png)
 <h1 align="center">Hi 👋, I'm Rimsha Ashraf</h1>
 <h3 align="center">An undergraduate Software Engineering student from Pakistan, passionate about front-end development</h3>
 
