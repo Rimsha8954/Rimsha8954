@@ -28,10 +28,18 @@
 </p>
 
 <h3 align="left">Projects:</h3>
-- **Veggie Vault**: An e-commerce app for fruits and vegetables store with Firebase integration.  
-- **Trendify**: An admin-client app for managing trending products.  
-- **Dev-Connect**: A portfolio app where clients can place orders for mobile app development services.  
-- **Spotify Clone**: A work-in-progress clone of Spotify using Flutter.  
+
+- 🚀 **Veggie Vault**:  
+  An e-commerce app for fruits and vegetables store with Firebase integration.  
+
+- 📊 **Trendify**:  
+  An admin-client app for managing trending products, allowing users to browse, add, update, and delete items.  
+
+- 💼 **Dev-Connect**:  
+  A portfolio app where clients can place orders for mobile app development services, featuring Firebase authentication and a custom drawer navigation.  
+
+- 🎧 **Spotify Clone**:  
+  A work-in-progress clone of Spotify using Flutter, focusing on UI replication and state management.
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rimsha8954&show_icons=true&locale=en&layout=compact" alt="rimsha8954" /></p>
 
