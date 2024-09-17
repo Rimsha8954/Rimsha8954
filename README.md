@@ -41,7 +41,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/rimsha ashraf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rimsha ashraf" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/rimshaashrafcoding/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rimsha ashraf" height="30" width="40" /></a>
 <a href="https://fb.com/rimsha ashraf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rimsha ashraf" height="30" width="40" /></a>
-<a href="https://instagram.com/rimsha_1797" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rimsha_1797" height="30" width="40" /></a>
+<a href="https://instagram.com/rimi_1797?utm_source=qr&igsh=NTRsbmpxOWk4emR5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rimsha_1797" height="30" width="40" /></a>
 </p>
