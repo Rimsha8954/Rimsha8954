@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rimsha Ashraf</h1>
+<h1 align="left">Hi 👋, I'm Rimsha Ashraf</h1>
 <img align="right" alt="coding" width="400" src="https://github.com/Rimsha8954/Image_data/blob/main/Rim.jpeg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rimsha8954&label=Profile%20views&color=0e75b6&style=flat" alt="rimsha8954" /> </p>
@@ -15,7 +15,7 @@ I'm Rimsha, a passionate Flutter developer with a keen interest in creating intu
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
 </p>
 
-<h3 align="left">Projects:</h3>
+<h1 align="center">Projects:</h1>
 
 - 🚀 **Veggie Vault**:  
   An e-commerce app for fruits and vegetables store with Firebase integration.  
@@ -35,13 +35,13 @@ I'm Rimsha, a passionate Flutter developer with a keen interest in creating intu
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rimsha8954&" alt="rimsha8954" /></p>
 
-## Get in Touch
+<h3 align="center">Languages and Tools:</h3>
 
 I'm actively seeking chances to gain more experience. Feel free to send me a message anytime. Whether you have a question, want to learn more about me, or just want to say hello, I'll do my best to respond!
 
 [Say Hello](mailto:rimshaashraf802@gmail.com)
 
-<p align="left">
+<p align="center">
 <a href="https://www.linkedin.com/in/rimshaashrafcoding/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rimsha ashraf" height="30" width="40" /></a>
 <a href="https://instagram.com/rimi_1797?utm_source=qr&igsh=NTRsbmpxOWk4emR5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rimsha_1797" height="30" width="40" /></a>
 </p>
