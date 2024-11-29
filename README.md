@@ -13,12 +13,10 @@ I'm Rimsha, a passionate Flutter developer with a keen interest in creating intu
 <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"> <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/android-studio-icon.png" alt="android-studio" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-</p>
+</p><br><br>
 
 
-
-
-<h1 align="center">Projects:</h1>
+<h1 align="center">Projects</h1>
 
 - 🚀 **Veggie Vault**:  
   An e-commerce app for fruits and vegetables store with Firebase integration.  
