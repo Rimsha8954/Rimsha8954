@@ -1,19 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rimsha Ashraf</h1>
-<h3 align="center">A Software Engineer from Pakistan, passionate about mobile app development</h3>
-
 <img align="right" alt="coding" width="400" src="https://github.com/Rimsha8954/Image_data/blob/main/Rim.jpeg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rimsha8954&label=Profile%20views&color=0e75b6&style=flat" alt="rimsha8954" /> </p>
 
-- 🔭 I’m currently working on **a Spotify Clone using Flutter**
-
-- 🌱 I’m currently learning **Flutter Clean Architecture**
-
-- 💬 Ask me about **Flutter, Mobile App Development**
-
-- 📫 How to reach me **rimshaashraf802@gmail.com**
-
-- ⚡ Fun fact **I love to build apps that solve real-world problems**
+I'm Rimsha, a passionate Flutter developer with a keen interest in creating intuitive and efficient mobile applications. I am dedicated to constantly improving my skills and staying up-to-date with the latest trends in mobile development. With a strong foundation in Flutter, I strive to build seamless user experiences while learning new technologies to enhance my development process. I am excited about the future of mobile app development and eager to contribute to meaningful projects.
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -45,9 +35,13 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rimsha8954&" alt="rimsha8954" /></p>
 
-<h3 align="left">Connect with me:</h3>
+## Get in Touch
+
+I'm actively seeking chances to gain more experience. Feel free to send me a message anytime. Whether you have a question, want to learn more about me, or just want to say hello, I'll do my best to respond!
+
+[Say Hello](mailto:rimshaashraf802@gmail.com)
+
 <p align="left">
 <a href="https://www.linkedin.com/in/rimshaashrafcoding/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rimsha ashraf" height="30" width="40" /></a>
-<a href="https://fb.com/rimsha ashraf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rimsha ashraf" height="30" width="40" /></a>
 <a href="https://instagram.com/rimi_1797?utm_source=qr&igsh=NTRsbmpxOWk4emR5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rimsha_1797" height="30" width="40" /></a>
 </p>
