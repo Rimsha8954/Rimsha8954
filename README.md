@@ -16,7 +16,7 @@ I'm Rimsha, a passionate Flutter developer with a keen interest in creating intu
 </p><br><br>
 
 
-<h1 align="center">Projects</h1>
+<h1 align="left">Projects</h1>
 
 - 🚀 **Veggie Vault**:  
   An e-commerce app for fruits and vegetables store with Firebase integration.  
@@ -36,12 +36,13 @@ I'm Rimsha, a passionate Flutter developer with a keen interest in creating intu
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rimsha8954&" alt="rimsha8954" /></p>
 
-<h1 align="center">Get in Touch</h1>
+<h1 align="left">Get in Touch</h1>
 
 I'm actively seeking chances to gain more experience. Feel free to send me a message anytime. Whether you have a question, want to learn more about me, or just want to say hello, I'll do my best to respond!
 
 <p align="center">
-<a href="mailto:rimshaashraf@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Rimsha Ashraf" height="30" width="40" /></a>
+<a href="mailto:rimshaashraf@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/47/Gmail_Logo_2023.png" alt="Email" height="30" width="40" /></a>
+
 <a href="https://www.linkedin.com/in/rimshaashrafcoding/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rimsha ashraf" height="30" width="40" /></a>
 <a href="https://instagram.com/rimi_1797?utm_source=qr&igsh=NTRsbmpxOWk4emR5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rimsha_1797" height="30" width="40" /></a>
 </p>
