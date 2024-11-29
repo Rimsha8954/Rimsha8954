@@ -1,9 +1,7 @@
-![logo](https://github.com/Rimsha8954/Rimsha8954/blob/main/Github%20Banner.png)
-
 <h1 align="center">Hi 👋, I'm Rimsha Ashraf</h1>
 <h3 align="center">A Software Engineer from Pakistan, passionate about mobile app development</h3>
 
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif">
+<img align="right" alt="coding" width="400" src="https://github.com/Rimsha8954/Image_data/blob/main/Rim.jpeg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rimsha8954&label=Profile%20views&color=0e75b6&style=flat" alt="rimsha8954" /> </p>
 
