@@ -1,5 +1,4 @@
 <h1 align="left">Hi 👋, I'm Rimsha Ashraf</h1>
-<img align="right" alt="coding" width="400" src="https://github.com/Rimsha8954/Image_data/blob/main/Rim.jpeg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rimsha8954&label=Profile%20views&color=0e75b6&style=flat" alt="rimsha8954" /> </p>
 
